@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Albo</string>
+    <string name="report_on_logcat">Report on Logcat</string>
+</resources>
